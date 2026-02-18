@@ -118,6 +118,6 @@ Below are some examples of the visualizations and analysis you can perform with 
 
 ---
 
-Thank you for checking out our project! If you find it useful, please give it a star ⭐ on GitHub.
+Thank you for checking out this project! If you find it useful, please give it a star ⭐ on GitHub.
 
 
